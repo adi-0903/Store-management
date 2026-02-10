@@ -81,8 +81,8 @@ We are introducing a **Commodities Management System** to **diversify product va
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd front-end-challenge
+   git clone https://github.com/adi-0903/Slooze-Assignment
+   cd Slooze-Assignment
    ```
 
 2. Install dependencies:
@@ -96,14 +96,6 @@ We are introducing a **Commodities Management System** to **diversify product va
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### Usage
-
-- **Login Credentials:**
-  - Manager: `manager@slooze.com` / `password`
-  - Store Keeper: `keeper@slooze.com` / `password`
-
-- Navigate through the application based on your role.
 
 ## ✨ Features Implemented
 

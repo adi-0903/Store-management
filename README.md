@@ -114,19 +114,3 @@ We are introducing a **Commodities Management System** to **diversify product va
 - **State Management:** React Context
 - **Icons:** Heroicons (via SVG)
 
-## 📤 Submission
-
-- Upload your code to GitHub or share as a CodeSandbox/StackBlitz link
-- Include instructions to run the app locally (e.g., npm install && npm run dev)
-- (Optional) Deploy and share a live link using Vercel, Netlify, etc.
-
-## Connect with Us:
-
-Reach out to **[careers@slooze.xyz](mailto:careers@slooze.xyz)** to submit your solutions or if you have any questions related to the challenge
-
-## © Copyright Notice
-
-**© Slooze. All Rights Reserved.**
-
-Please do not share or distribute this material outside the intended evaluation process.
-For queries, contact us!!
